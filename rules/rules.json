@@ -1,5 +1,5 @@
 {
-  "v": 39,
+  "v": 42,
   "date": "2026-11-23",
   "rx": {
     "admBase": [
@@ -72,8 +72,6 @@
   "hide": [
     ".comment__body:has(.comment__header .comment__user[data-own-story=\"true\"]):has(.comment__content a[href*=\"erid=\"])",
     "a[href*=\"neuro.pikabu.ru\"]",
-    ".story:has(a[title*=\"promokod.pikabu.ru\"]):not([data-page=\"true\"])",
-    "a[href*=\"promokod.pikabu.ru\"]",
     ".promo-banner",
     "body:not(:has(#companies-info)) .story[data-blog=\"1\"]:not([data-page=\"true\"])",
     "body:not(:has(#companies-info)) .story:has(.story__advert-info):not([data-page=\"true\"])",
@@ -81,7 +79,6 @@
     "div.thematic-campaign"
   ],
   "authors": [
-    "12291975",
-    "3569541"
+    "12291975"
   ]
 }
