@@ -1,27 +1,9 @@
 # «Вернём Пикабу величие» — мод приложения Пикабу для Android
 
-[![Версия](https://img.shields.io/github/v/release/Steklorez/pikabu-mod?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)](https://github.com/Steklorez/pikabu-mod/releases/latest)
-[![Скачиваний](https://img.shields.io/github/downloads/Steklorez/pikabu-mod/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9)](https://github.com/Steklorez/pikabu-mod/releases)
-
 Неофициальная модификация приложения Пикабу: без рекламы, с чёрной темой, точным рейтингом и настройкой почти всего,
 что видно на экране. Собирается из официального APK, меняется только оформление и поведение страниц.
 
 **[Скачать последнюю версию](https://github.com/Steklorez/pikabu-mod/releases/latest)** · [все версии](https://github.com/Steklorez/pikabu-mod/releases)
-
-<div align="center">
-
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header)
-
-### ☕ Нравится мод Пикабу? Поддержите автора — угостите кофе!
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/I3I0273OYI)
-[![Boosty](https://img.shields.io/badge/Boosty-Donate-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/steklorez)
-
-<a href="https://ko-fi.com/I3I0273OYI"><img src=".github/support/qr-kofi.png" width="140" alt="Ko-fi QR"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://boosty.to/steklorez"><img src=".github/support/qr-boosty.png" width="140" alt="Boosty QR"></a>
-
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=60&section=footer)
-
-</div>
 
 ## Что умеет
 
