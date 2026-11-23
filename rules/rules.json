@@ -1,5 +1,5 @@
 {
-  "v": 38,
+  "v": 39,
   "date": "2026-11-23",
   "rx": {
     "admBase": [
@@ -78,7 +78,6 @@
     "body:not(:has(#companies-info)) .story[data-blog=\"1\"]:not([data-page=\"true\"])",
     "body:not(:has(#companies-info)) .story:has(.story__advert-info):not([data-page=\"true\"])",
     "body:not(:has(#companies-info)) .story[data-caof=\"1\"]:not([data-page=\"true\"])",
-    ".stories-feed__container section[class*=\"app__host--\"]",
     "div.thematic-campaign"
   ],
   "authors": [
